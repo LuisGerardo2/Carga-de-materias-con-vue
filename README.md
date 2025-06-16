@@ -6,4 +6,4 @@ Se deben ejecutar desde terminal ya sea de powershell o la terminal de visual st
 Utiliza xampp, hay que encender el servidor mysql 
 IMPORTANTE
 -Crea o importa la base de datos antes de intentar ejecutar
-
+El archivo ModuloWeb.zip ya contiene todo con respecto al proyecto
